@@ -1,4 +1,4 @@
-FROM ubuntu:xenial-20210416
+FROM ubuntu:focal-20221019
 MAINTAINER John Starich <johnstarich@johnstarich.com>
 
 # Install set up tools
