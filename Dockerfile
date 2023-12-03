@@ -1,4 +1,4 @@
-FROM ubuntu:focal-20221019
+FROM ubuntu:focal
 MAINTAINER John Starich <johnstarich@johnstarich.com>
 
 # Install set up tools
